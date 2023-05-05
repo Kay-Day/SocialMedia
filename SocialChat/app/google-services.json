@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1014790495211",
+    "firebase_url": "https://social-chat-a00f9-default-rtdb.firebaseio.com",
+    "project_id": "social-chat-a00f9",
+    "storage_bucket": "social-chat-a00f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014790495211:android:fd86217e3652aa9c6e97ae",
+        "android_client_info": {
+          "package_name": "com.example.socialchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014790495211-ovskcjahtgotlfgs6eafond35rs2m0lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASQGVvT9T2P_2G6CV553iH-Upky1MZopE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014790495211-ovskcjahtgotlfgs6eafond35rs2m0lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
